@@ -1,0 +1,2 @@
+# interpreter-with-typescript
+typescriptに慣れてないからgoで作るインタプリタの内容をtsで作り直してみるリポジトリ
